@@ -1,6 +1,6 @@
-// gcc matrix.c -o matrix
+// gcc matrix_order.c -o matrix_order
 // or
-// gcc matrix.c -O3 matrix
+// gcc matrix_order.c -O3 matrix_order
 
 #include <stdio.h>
 #include <stdlib.h>
