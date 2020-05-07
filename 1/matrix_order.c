@@ -18,7 +18,7 @@ int main(int argc, const char* argv[]){
         for(int j =0; j < N; ++j){
             A[i][j] = (double)rand() / (double)RAND_MAX;
             B[i][j] = (double)rand() / (double)RAND_MAX;
-            C[i][j] = (double)rand() / (double)RAND_MAX;
+            C[i][j] = 0;
         }
     }
 
