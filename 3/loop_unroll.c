@@ -10,7 +10,7 @@ int main(){
         sum = sum + A[i];
     }
     // to...
-    sum = A[0] + A[1] + A[2] + A[4];
+    sum = A[0] + A[1] + A[2] + A[3];
 
 
     return 0;

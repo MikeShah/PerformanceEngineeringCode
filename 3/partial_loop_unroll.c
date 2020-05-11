@@ -12,7 +12,7 @@ int main(){
     // to...
     for(int i=0; i < 4; i+=2){
         sum = sum + A[i];
-        sum = sum + A[1+1];
+        sum = sum + A[i+1];
     }
 
 
